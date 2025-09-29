@@ -1,6 +1,6 @@
 ## Olá 👋
 
-# João Vitor Pires
+#  Meu nome é João Vitor Pires
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (SENAC)** e com passagem até o **10º semestre de Medicina Veterinária (UNISA)**, trajetória que me proporcionou **disciplina, resiliência** e experiência em lidar com pessoas em situações de alta responsabilidade.  
 
